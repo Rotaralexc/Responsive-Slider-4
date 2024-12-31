@@ -2,7 +2,7 @@
 
   <h3 align="center">Responsive Slider for Restaurant Using HTML CSS and JavaScript</h3>
   <br />
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/Rotaralexc/Responsive-Slider-4/blob/93162ea2a75d71cdf4e80b9521b8792156b0cc2f/ResponsiveSlider4.png" alt="Project Banner">
   <br />
 
   <h3 align="center">DEMO</h3>
